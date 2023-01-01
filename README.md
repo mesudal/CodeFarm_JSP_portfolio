@@ -104,7 +104,7 @@
 
 <div>
   <h3>프로젝트 ERD</h3>
-  <img src="https://user-images.githubusercontent.com/80095494/210135217-5c857408-c4c4-4cdf-875b-33fb560e3b3b.png">
+  <img src="https://user-images.githubusercontent.com/80095494/210159882-15d158ff-25cd-4ced-b14a-f47ef9bedbc5.png">
 </div>
 <hr>
 
