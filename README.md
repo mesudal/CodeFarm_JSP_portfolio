@@ -84,10 +84,7 @@
 <div>
   <h3>메인 페이지 Flow-Chart</h3>
   <div align="center">
-    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210135358-ae932fcb-8a40-4bb6-8eed-d33c81648b0c.png">
-    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210135361-d1600386-51b8-4a40-baf1-6fb9c65b7df6.png">
-    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210135362-9bfc2e1b-c6ab-4a07-bb9b-ae96393c3f76.png">
-    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210135365-0a226210-64cb-47a5-a167-13f8e288adab.png">
+    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210159837-d98c2cde-145a-4fc5-8f06-0db58da64829.jpg">
   </div>
 </div>
 <hr>
@@ -95,10 +92,12 @@
 <div>
   <h3>소통공간 Flow-Chart</h3>
   <div align="center">
-    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210135358-ae932fcb-8a40-4bb6-8eed-d33c81648b0c.png">
-    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210135361-d1600386-51b8-4a40-baf1-6fb9c65b7df6.png">
-    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210135362-9bfc2e1b-c6ab-4a07-bb9b-ae96393c3f76.png">
-    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210135365-0a226210-64cb-47a5-a167-13f8e288adab.png">
+    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210159840-3ea664c2-d1c8-4c93-8405-ff19c71aef3c.jpg">
+    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210159841-ed7d584a-0035-49a4-bb00-f3013c026098.jpg">
+    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210159843-1913be13-73f7-4211-816d-4cb62ff14ccf.jpg">
+    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210159844-64d1face-0d90-416b-a981-b571a8e47482.jpg">
+    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210159845-a0aab94d-aa63-432f-91a5-1e5f19488f9d.jpg">
+    <img width="700px" src="https://user-images.githubusercontent.com/80095494/210159846-baed5301-2194-469e-a775-9f52bb2fcba4.jpg">
   </div>
 </div>
 <hr>
